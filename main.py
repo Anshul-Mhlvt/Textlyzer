@@ -23,7 +23,7 @@ rad=st.sidebar.radio("Navigation",["Home","Spam Detection","Sentiment Analysis",
 if rad=="Home":
     st.title("Textlyzer")
     st.text("Text Analyzer which can be used to find detailed analysis of given text.")
-    st.image("pic.jpeg")
+    # st.image("pic.jpeg")
     st.text("Text Analysis Options Available Are As Follows:")
     st.text(" ")
     st.text("1. Spam Detection")
