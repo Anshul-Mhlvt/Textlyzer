@@ -4,11 +4,11 @@
 ## Overview
 Text Analyzer which can be used to find detailed analysis of given text.
 Text Analysis Options Available Are As Follows:
-**1. Spam Detection
-**2. Sentiment Analysis
-**3. Stress Detection
-**4. Hate & Offensive Content Detection
-**5. Sarcasm Detection
+1. Spam Detection
+2. Sentiment Analysis
+3. Stress Detection
+4. Hate & Offensive Content Detection
+5. Sarcasm Detection
 
 ## Features
 - Each prediction page is connected with a ML model which uses either of Logistic Regression, Decision Tree, Random Forest Algorithms to predict the results.
